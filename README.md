@@ -2,7 +2,7 @@
 
 Este repositório serve como um portfólio de aprendizado e uma coleção de códigos desenvolvidos durante o meu curso de Python para Ciência de Dados no Senai. O objetivo é demonstrar a aplicação prática de conceitos de programação Python em cenários típicos de Data Science, desde a organização de dados até o tratamento de possíveis erros.
 
-## Tópicos Essenciais de Data Science Abordados (Exemplos neste Repositório):
+## Tópicos Essenciais de Data Science Abordados:
 
 * **Fundamentos de Programação Python:** Base sólida para qualquer análise de dados, incluindo sintaxe, variáveis e tipos de dados.
 * **Estruturas de Dados para Análise:**
@@ -20,4 +20,4 @@ Explore os códigos e acompanhe meu progresso na jornada da Ciência de Dados!
 
 ---
 **Sobre Mim:**
-[Pedro Henrique Siqueira Lopes/[Link do Perfil do GitHub - Opcional](https://github.com/phslopes)]
+[Pedro Henrique Siqueira Lopes/[GITHUB](https://github.com/phslopes)]
